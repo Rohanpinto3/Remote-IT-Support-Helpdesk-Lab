@@ -1,5 +1,17 @@
 # Remote-IT-Support-Helpdesk-Lab
 
+<p align="center">
+  <img src="https://files.catbox.moe/ea6s48.png" alt="Remote IT Support Helpdesk Lab Banner" width="100%">
+</p>
+
+
+<p align="center">
+  <img src="https://files.catbox.moe/5ahkz6.png" alt="Remote IT Support Helpdesk Lab Banner" width="100%">
+</p>
+
+
+
+
 
 A hands-on IT support lab focused on remotely connecting to and troubleshooting Windows systems using common remote support tools.
 

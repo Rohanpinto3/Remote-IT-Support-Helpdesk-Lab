@@ -1,8 +1,6 @@
 # Remote-IT-Support-Helpdesk-Lab
 
-<p align="center">
-  <img src="https://files.catbox.moe/ea6s48.png" alt="Remote IT Support Helpdesk Lab Banner" width="100%">
-</p>
+
 
 
 <p align="center">
